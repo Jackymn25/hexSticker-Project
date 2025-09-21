@@ -52,8 +52,3 @@ Rscript main.R
 Rscript final.R
 ```
 
-## Output Files
-- **skeleton.png** → the skeleton sticker (from `main.R`).  
-- **final.png** → the main final sticker (from `final.R`).  
-- **result.png** → optional final sticker, alternative name.  
-
